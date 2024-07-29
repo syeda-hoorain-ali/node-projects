@@ -2,7 +2,7 @@
 <div align="center">
   <h1>🎓 CLI Student Management System 📚</h1>
   <p><i>A vibrant Command-Line Interface for managing student records, built with TypeScript.</i></p>
-  <img src="https://your-image-url-here" alt="CLI Student Management System" width="400">
+  <img src="./cmd.png" alt="CLI Student Management System" width="400">
 </div>
 
 ---

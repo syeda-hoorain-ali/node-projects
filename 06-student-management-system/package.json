@@ -1,6 +1,6 @@
 {
   "name": "@syedahoorainali/giaic",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A vibrant Command-Line Interface for managing student records, built with TypeScript.",
   "homepage": "https://github.com/syeda-hoorain-ali/node-projects/tree/main/06-student-management-system/README.md",
   "main": "dist/index.js",

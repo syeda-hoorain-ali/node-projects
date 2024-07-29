@@ -28,14 +28,6 @@ const seeAndEditStudents = async (students: Student[]) => {
         singleStudent.isPaid ? 'YES' : 'NO'
     ]);
 
-    // const studentsData = students.map(singleStudent => ({
-    //     "Roll No": singleStudent.rollNo,
-    //     Name: singleStudent.name,
-    //     'Father Name': singleStudent.fatherName,
-    //     Course: singleStudent.course,
-    //     Balance: String(singleStudent.fees),
-    //     Paid: singleStudent.isPaid ? 'YES' : 'NO'
-    // }));
 
     // Define table column headings
     const headings = [
