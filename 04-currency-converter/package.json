@@ -1,0 +1,35 @@
+{
+  "name": "hoorain-currency-converter",
+  "version": "1.0.7",
+  "description": "Currency Converter CLI is a command-line tool for seamless currency conversion, offering users quick and interactive access to exchange rates.",
+  "homepage": "https://github.com/syeda-hoorain-ali/node-projects/tree/main/04-currency-converter/README.md",
+  "main": "dist/index.js",
+  "type": "module",
+  "bin": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/syeda-hoorain-ali/node-projects/tree/main/04-currency-converter.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "currency",
+    "converter",
+    "CLI",
+    "command-line",
+    "Node.js",
+    "currency conversion",
+    "tool",
+    "currency tool"
+  ],
+  "author": "Syeda Hoorain Ali",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
