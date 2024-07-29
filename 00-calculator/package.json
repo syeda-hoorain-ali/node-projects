@@ -1,0 +1,26 @@
+{
+  "name": "m6ra3-calculator",
+  "version": "1.1.0",
+  "description": "A simple calculator",
+  "homepage": "https://github.com/syeda-hoorain-ali/node-projects/tree/main/00-calculator/README.md",
+  "main": "dist/index.js",
+  "type": "module",
+  "bin": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/syeda-hoorain-ali/node-projects/tree/main/00-calculator.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hoorain",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.11.29"
+  }
+}
