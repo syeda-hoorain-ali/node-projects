@@ -1,0 +1,35 @@
+{
+  "name": "@syedahoorainali/my-bank",
+  "version": "1.0.1",
+  "description": "An interactive CLI bank application built with TypeScript.",
+  "homepage": "https://github.com/syeda-hoorain-ali/node-projects/tree/main/11-oop-my-bank/README.md",
+  "type": "module",
+  "main": "dist/index.js",
+  "bin": {
+    "my-bank": "dist/index.js"
+  },
+  "scripts": {
+    "start": "node dist/index.js",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/syeda-hoorain-ali/node-projects/tree/main/11-oop-my-bank.git"
+  },
+  "keywords": [
+    "cli",
+    "bank",
+    "typescript"
+  ],
+  "author": "Syeda Hoorain Ali",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "cli-table3": "^0.6.5",
+    "inquirer": "^9.2.20",
+    "nanospinner": "^1.1.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
